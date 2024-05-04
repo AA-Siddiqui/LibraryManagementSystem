@@ -1,0 +1,51 @@
+openlibrary
+
+fix SearchPage.java block grid layout
+
+DashboardPage.java
+- Welcome
+    - Welcoming text lol
+    - Explore
+- Search
+- Charges Due -> Return Schedule
+- Books to Return (knows if you have a copy borrowed)
+- Top Seller
+- Recommended?
+- Recent?
+
+Explore (Random)
+Top Seller
+Return Schedule
+Transaction History
+Checkout Page
+Rating?
+Recommended?
+
+checkout/cart page
+
+
+
+Catalog Search: A user-friendly search function to find library materials (books, ebooks, audiobooks, etc.) by title, author, genre, or keyword.
+Account Management: A dedicated page for users to view their borrowing history, renew loans, manage holds, and update personal information.
+Browse by Category: Sections for browsing materials by category, genre, publication date, or other relevant filters.
+About the Library:  A page outlining library hours, location information, contact details, and  descriptions of offered services (e.g., interlibrary loan, online resources). 
+
+For Librarians:
+
+Material Management:  A dashboard to add, edit, and delete library materials, including managing ISBNs, descriptions, and quantities.
+Circulation Management:  A section to oversee book borrowing and returns, track due dates, and manage fines.
+User Management:  Tools for adding, editing, and deactivating user accounts, as well as managing user privileges.
+Reporting & Analytics:  A page with reports on borrowing trends, overdue materials, user activity, and other library metrics.
+
+Additional Pages (Optional):
+
+Library News & Events: A section for announcements, upcoming events (author talks, book clubs), and library program information.
+Help & FAQs:  A page with answers to frequently asked questions (FAQs) and tutorials on using the LMS.
+Resource Recommendations: A librarian-curated section suggesting new releases, popular titles, or genre-specific recommendations.
+
+
+member management
+- better allocation
+- better return times
+
+
